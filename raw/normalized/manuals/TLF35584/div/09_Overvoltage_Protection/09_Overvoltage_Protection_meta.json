@@ -1,0 +1,818 @@
+{
+  "table_of_contents": [
+    {
+      "title": "7.2 \u00b5-Processor Supply",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.927734375,
+          29.6513671875
+        ],
+        [
+          220.51681518554688,
+          29.6513671875
+        ],
+        [
+          220.51681518554688,
+          43.152503967285156
+        ],
+        [
+          50.927734375,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "7.2.1 Functional description",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.47265625,
+          76.34375
+        ],
+        [
+          236.3856201171875,
+          76.34375
+        ],
+        [
+          236.3856201171875,
+          89.17252349853516
+        ],
+        [
+          49.47265625,
+          89.17252349853516
+        ]
+      ]
+    },
+    {
+      "title": "7.2.2 Electrical characteristics",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.63671875,
+          29.310546875
+        ],
+        [
+          249.11639404296875,
+          29.310546875
+        ],
+        [
+          249.11639404296875,
+          43.152503967285156
+        ],
+        [
+          50.63671875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "7.2.3 Typical Performance Characteristics",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          51.0,
+          29.6513671875
+        ],
+        [
+          315.65985107421875,
+          29.6513671875
+        ],
+        [
+          315.65985107421875,
+          43.152503967285156
+        ],
+        [
+          50.0546875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "QUC Output Voltage VQUC versus\nJunction Temperature Tj\n (TLF35584xxVS1)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.345703125,
+          80.43359375
+        ],
+        [
+          252.93026733398438,
+          80.43359375
+        ],
+        [
+          252.93026733398438,
+          107.3255386352539
+        ],
+        [
+          49.181640625,
+          107.3255386352539
+        ]
+      ]
+    },
+    {
+      "title": "QUC Output Voltage VQUC versus\nJunction Temperature Tj\n (TLF35584xxVS2)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          300.91015625,
+          80.43359375
+        ],
+        [
+          503.9752197265625,
+          79.0703125
+        ],
+        [
+          503.9752197265625,
+          107.3255386352539
+        ],
+        [
+          299.74609375,
+          107.3255386352539
+        ]
+      ]
+    },
+    {
+      "title": "QUC Dropout Voltage Vdr,QUC versus\nLoad Current IQUC (TLF35584xxVS1)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.345703125,
+          42.943359375
+        ],
+        [
+          223.208984375,
+          41.580078125
+        ],
+        [
+          222.53355407714844,
+          70.30558013916016
+        ],
+        [
+          49.181640625,
+          70.30558013916016
+        ]
+      ]
+    },
+    {
+      "title": "QUC Dropout Voltage Vdr,QUC versus\nLoad Current IQUC (TLF35584xxVS2)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          300.91015625,
+          41.9208984375
+        ],
+        [
+          473.5645751953125,
+          41.9208984375
+        ],
+        [
+          473.5645751953125,
+          70.30558013916016
+        ],
+        [
+          300.91015625,
+          70.30558013916016
+        ]
+      ]
+    },
+    {
+      "title": "QUC Dynamic Load Response (1mA to 600mA)\nTLF35584xxVS1 (VQUC,nom = 5.0 V)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          50.345703125,
+          43.2841796875
+        ],
+        [
+          273.6866455078125,
+          43.2841796875
+        ],
+        [
+          273.6866455078125,
+          70.30558013916016
+        ],
+        [
+          50.345703125,
+          70.30558013916016
+        ]
+      ]
+    },
+    {
+      "title": "QUC Dynamic Load Response (1mA to 600mA)\nTLF35584xxVS2 (VQUC,nom = 3.3 V)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          299.1640625,
+          43.2841796875
+        ],
+        [
+          524.7237548828125,
+          41.9208984375
+        ],
+        [
+          524.7237548828125,
+          70.30558013916016
+        ],
+        [
+          298.0,
+          70.30558013916016
+        ]
+      ]
+    },
+    {
+      "title": "7.3 Communication Supply",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.0,
+          29.310546875
+        ],
+        [
+          241.68722534179688,
+          29.310546875
+        ],
+        [
+          241.68722534179688,
+          43.152503967285156
+        ],
+        [
+          51.0,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "7.3.1 Functional description",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.345703125,
+          76.34375
+        ],
+        [
+          236.3856201171875,
+          76.34375
+        ],
+        [
+          236.3856201171875,
+          89.17252349853516
+        ],
+        [
+          49.181640625,
+          89.17252349853516
+        ]
+      ]
+    },
+    {
+      "title": "7.3.2 Electrical characteristics",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.63671875,
+          29.310546875
+        ],
+        [
+          249.11639404296875,
+          29.310546875
+        ],
+        [
+          249.11639404296875,
+          43.152503967285156
+        ],
+        [
+          50.63671875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "7.3.3 Typical Performance Characteristics",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          51.0,
+          29.310546875
+        ],
+        [
+          315.65985107421875,
+          29.310546875
+        ],
+        [
+          315.65985107421875,
+          43.152503967285156
+        ],
+        [
+          50.345703125,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "QCO Output Voltage VQCO versus\nJunction Temperature Tj",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          50.0546875,
+          80.7744140625
+        ],
+        [
+          208.72457885742188,
+          80.7744140625
+        ],
+        [
+          208.72457885742188,
+          107.3255386352539
+        ],
+        [
+          48.890625,
+          107.3255386352539
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          248
+        ],
+        [
+          "TableCell",
+          124
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          263
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "TableCell",
+          100
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\09_Overvoltage_Protection"
+}

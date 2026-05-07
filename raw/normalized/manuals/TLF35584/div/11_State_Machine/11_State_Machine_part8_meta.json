@@ -1,0 +1,1032 @@
+{
+  "table_of_contents": [
+    {
+      "title": "11.4.3.1 INIT -> FAILSAFE state due to detected fault",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.29219143576826,
+          29.270967741935483
+        ],
+        [
+          361.80352644836273,
+          29.270967741935483
+        ],
+        [
+          361.80352644836273,
+          39.77849462365591
+        ],
+        [
+          49.763671875,
+          39.77849462365591
+        ]
+      ]
+    },
+    {
+      "title": "Timing Diagram",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265625,
+          73.552688172043
+        ],
+        [
+          127.60705289672543,
+          73.552688172043
+        ],
+        [
+          127.60705289672543,
+          84.06021505376344
+        ],
+        [
+          49.47265625,
+          84.06021505376344
+        ]
+      ]
+    },
+    {
+      "title": "Description:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.541561712846345,
+          328.7354838709677
+        ],
+        [
+          105.088161209068,
+          327.869140625
+        ],
+        [
+          105.088161209068,
+          338.4924731182796
+        ],
+        [
+          49.541561712846345,
+          338.775390625
+        ]
+      ]
+    },
+    {
+      "title": "11.4.3.2 XXXX -> INIT -> FAILSAFE state due to detected fault",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.0,
+          29.6513671875
+        ],
+        [
+          408.5859375,
+          29.6513671875
+        ],
+        [
+          408.3731384277344,
+          43.152503967285156
+        ],
+        [
+          50.0546875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "Timing Diagram",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.63671875,
+          74.298828125
+        ],
+        [
+          126.54461669921875,
+          72.935546875
+        ],
+        [
+          126.54461669921875,
+          85.42679595947266
+        ],
+        [
+          49.47265625,
+          85.42679595947266
+        ]
+      ]
+    },
+    {
+      "title": "Description:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.0,
+          336.73046875
+        ],
+        [
+          103.70832061767578,
+          335.3671875
+        ],
+        [
+          103.70832061767578,
+          346.7273941040039
+        ],
+        [
+          50.345703125,
+          346.7273941040039
+        ]
+      ]
+    },
+    {
+      "title": "11.4.3.3 NORMAL -> FAILSAFE state due to detected fault",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.042821158690174,
+          29.310546875
+        ],
+        [
+          391.0780856423174,
+          29.310546875
+        ],
+        [
+          391.0780856423174,
+          39.77849462365591
+        ],
+        [
+          50.0546875,
+          39.77849462365591
+        ]
+      ]
+    },
+    {
+      "title": "Timing Diagram",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.541561712846345,
+          73.552688172043
+        ],
+        [
+          127.60705289672543,
+          73.552688172043
+        ],
+        [
+          127.60705289672543,
+          83.30967741935483
+        ],
+        [
+          49.541561712846345,
+          84.5234375
+        ]
+      ]
+    },
+    {
+      "title": "Description:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.29219143576826,
+          330.2365591397849
+        ],
+        [
+          105.088161209068,
+          329.232421875
+        ],
+        [
+          105.088161209068,
+          339.2430107526882
+        ],
+        [
+          50.29219143576826,
+          340.138671875
+        ]
+      ]
+    },
+    {
+      "title": "11.4.3.4 STANDBY -> FAILSAFE state due to detected fault",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.927734375,
+          29.6513671875
+        ],
+        [
+          393.9696350097656,
+          29.6513671875
+        ],
+        [
+          393.9696350097656,
+          43.152503967285156
+        ],
+        [
+          49.763671875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "Timing Diagram",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.63671875,
+          74.98046875
+        ],
+        [
+          126.54461669921875,
+          73.6171875
+        ],
+        [
+          126.54461669921875,
+          85.42679595947266
+        ],
+        [
+          49.47265625,
+          85.42679595947266
+        ]
+      ]
+    },
+    {
+      "title": "Description:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.0,
+          323.779296875
+        ],
+        [
+          103.70832061767578,
+          322.416015625
+        ],
+        [
+          103.70832061767578,
+          334.18775177001953
+        ],
+        [
+          50.0546875,
+          334.18775177001953
+        ]
+      ]
+    },
+    {
+      "title": "11.4.3.5 SLEEP -> FAILSAFE state due to Fault",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          51.042821158690174,
+          29.310546875
+        ],
+        [
+          328.0251889168766,
+          29.310546875
+        ],
+        [
+          328.0251889168766,
+          39.77849462365591
+        ],
+        [
+          50.0546875,
+          39.77849462365591
+        ]
+      ]
+    },
+    {
+      "title": "Timing Diagram",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.541561712846345,
+          73.552688172043
+        ],
+        [
+          127.60705289672543,
+          73.552688172043
+        ],
+        [
+          127.60705289672543,
+          83.30967741935483
+        ],
+        [
+          49.541561712846345,
+          84.5234375
+        ]
+      ]
+    },
+    {
+      "title": "Description:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.29219143576826,
+          321.734375
+        ],
+        [
+          105.088161209068,
+          320.37109375
+        ],
+        [
+          105.088161209068,
+          330.9870967741935
+        ],
+        [
+          50.29219143576826,
+          331.27734375
+        ]
+      ]
+    },
+    {
+      "title": "11.4.3.6 WAKE -> FAIL SAFE state due to detected fault",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          51.042821158690174,
+          29.6513671875
+        ],
+        [
+          375.31486146095716,
+          29.6513671875
+        ],
+        [
+          375.31486146095716,
+          39.02795698924731
+        ],
+        [
+          50.0546875,
+          39.02795698924731
+        ]
+      ]
+    },
+    {
+      "title": "Timing Diagram",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.47265625,
+          73.552688172043
+        ],
+        [
+          127.60705289672543,
+          72.935546875
+        ],
+        [
+          127.60705289672543,
+          83.30967741935483
+        ],
+        [
+          49.47265625,
+          83.841796875
+        ]
+      ]
+    },
+    {
+      "title": "Description:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.29219143576826,
+          318.9784946236559
+        ],
+        [
+          105.088161209068,
+          317.64453125
+        ],
+        [
+          105.088161209068,
+          327.9849462365591
+        ],
+        [
+          50.29219143576826,
+          328.55078125
+        ]
+      ]
+    },
+    {
+      "title": "11.4.3.7 Transition into FAILSAFE state due to thermal shutdown",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          50.29219143576826,
+          29.6513671875
+        ],
+        [
+          432.36272040302265,
+          29.6513671875
+        ],
+        [
+          432.36272040302265,
+          39.77849462365591
+        ],
+        [
+          50.29219143576826,
+          39.77849462365591
+        ]
+      ]
+    },
+    {
+      "title": "Timing Diagram",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          49.541561712846345,
+          73.552688172043
+        ],
+        [
+          127.60705289672543,
+          73.552688172043
+        ],
+        [
+          127.60705289672543,
+          84.06021505376344
+        ],
+        [
+          49.541561712846345,
+          84.06021505376344
+        ]
+      ]
+    },
+    {
+      "title": "Description:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          49.541561712846345,
+          318.2279569892473
+        ],
+        [
+          105.088161209068,
+          317.64453125
+        ],
+        [
+          105.088161209068,
+          327.9849462365591
+        ],
+        [
+          49.541561712846345,
+          328.55078125
+        ]
+      ]
+    },
+    {
+      "title": "11.4.4 Transition into POWERDOWN-state",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.0,
+          29.6513671875
+        ],
+        [
+          309.6599426269531,
+          29.6513671875
+        ],
+        [
+          309.6599426269531,
+          43.152503967285156
+        ],
+        [
+          50.63671875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "11.5 Electrical Characteristics",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          50.927734375,
+          29.310546875
+        ],
+        [
+          251.03753662109375,
+          29.310546875
+        ],
+        [
+          251.03753662109375,
+          43.152503967285156
+        ],
+        [
+          50.927734375,
+          43.152503967285156
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          27
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          31
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          28
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "TableCell",
+          101
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          121
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\11_State_Machine_part8"
+}

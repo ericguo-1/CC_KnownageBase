@@ -1,0 +1,1045 @@
+{
+  "table_of_contents": [
+    {
+      "title": "11.3.2 INIT -> NORMAL-state",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.0,
+          30.333007812499996
+        ],
+        [
+          232.5731658935547,
+          28.9697265625
+        ],
+        [
+          232.5731658935547,
+          43.152503967285156
+        ],
+        [
+          50.63671875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.927734375,
+          74.298828125
+        ],
+        [
+          117.68319702148438,
+          72.935546875
+        ],
+        [
+          117.68319702148438,
+          85.42679595947266
+        ],
+        [
+          49.763671875,
+          85.42679595947266
+        ]
+      ]
+    },
+    {
+      "title": "Triggering Events:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265625,
+          207.5595703125
+        ],
+        [
+          139.31631469726562,
+          206.1962890625
+        ],
+        [
+          139.31631469726562,
+          218.44559478759766
+        ],
+        [
+          49.47265625,
+          218.44559478759766
+        ]
+      ]
+    },
+    {
+      "title": "Exceptions:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.0546875,
+          266.521484375
+        ],
+        [
+          107.67240142822266,
+          265.158203125
+        ],
+        [
+          107.67240142822266,
+          277.42569732666016
+        ],
+        [
+          50.0546875,
+          277.42569732666016
+        ]
+      ]
+    },
+    {
+      "title": "Timing Description:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.927734375,
+          31.355468749999996
+        ],
+        [
+          144.87200927734375,
+          29.992187499999996
+        ],
+        [
+          144.87200927734375,
+          41.446815490722656
+        ],
+        [
+          49.763671875,
+          41.446815490722656
+        ]
+      ]
+    },
+    {
+      "title": "11.3.3 Movements between NORMAL and SLEEP state",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.927734375,
+          29.992187499999996
+        ],
+        [
+          379.5887451171875,
+          29.992187499999996
+        ],
+        [
+          379.5887451171875,
+          43.152503967285156
+        ],
+        [
+          50.927734375,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "11.3.3.1 NORMAL -> SLEEP-state",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.345703125,
+          76.0029296875
+        ],
+        [
+          249.328857421875,
+          76.0029296875
+        ],
+        [
+          249.328857421875,
+          89.17252349853516
+        ],
+        [
+          50.345703125,
+          89.17252349853516
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.0,
+          120.65039062499999
+        ],
+        [
+          117.68319702148438,
+          119.28710937499999
+        ],
+        [
+          117.68319702148438,
+          131.44681549072266
+        ],
+        [
+          50.0546875,
+          131.44681549072266
+        ]
+      ]
+    },
+    {
+      "title": "Triggering Events:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.763671875,
+          211.990234375
+        ],
+        [
+          139.31643676757812,
+          210.626953125
+        ],
+        [
+          139.31643676757812,
+          222.40702056884766
+        ],
+        [
+          49.763671875,
+          222.40702056884766
+        ]
+      ]
+    },
+    {
+      "title": "Exceptions:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.0001220703125,
+          271.29296875
+        ],
+        [
+          107.67252349853516,
+          269.9296875
+        ],
+        [
+          107.67252349853516,
+          281.44693756103516
+        ],
+        [
+          50.0546875,
+          281.44693756103516
+        ]
+      ]
+    },
+    {
+      "title": "Timing Diagram",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.29219143576826,
+          30.772043010752686
+        ],
+        [
+          127.60705289672543,
+          29.992187499999996
+        ],
+        [
+          127.60705289672543,
+          40.52903225806451
+        ],
+        [
+          49.763671875,
+          40.8984375
+        ]
+      ]
+    },
+    {
+      "title": "11.3.3.2 SLEEP -> WAKE-state",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.541561712846345,
+          27.76989247311828
+        ],
+        [
+          234.9471032745592,
+          27.76989247311828
+        ],
+        [
+          234.9471032745592,
+          39.77849462365591
+        ],
+        [
+          49.541561712846345,
+          39.77849462365591
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.79093198992443,
+          72.0516129032258
+        ],
+        [
+          118.59949622166246,
+          72.0516129032258
+        ],
+        [
+          118.59949622166246,
+          84.06021505376344
+        ],
+        [
+          48.79093198992443,
+          84.06021505376344
+        ]
+      ]
+    },
+    {
+      "title": "Triggering Events:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.04030226700252,
+          132.09462365591398
+        ],
+        [
+          141.1183879093199,
+          132.09462365591398
+        ],
+        [
+          141.1183879093199,
+          144.1032258064516
+        ],
+        [
+          48.04030226700252,
+          144.1032258064516
+        ]
+      ]
+    },
+    {
+      "title": "Exceptions:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.04030226700252,
+          239.42150537634407
+        ],
+        [
+          108.09068010075566,
+          239.25585937499997
+        ],
+        [
+          108.09068010075566,
+          250.6795698924731
+        ],
+        [
+          48.04030226700252,
+          250.6795698924731
+        ]
+      ]
+    },
+    {
+      "title": "Timing Diagram",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.79093198992443,
+          297.96344086021503
+        ],
+        [
+          127.60705289672543,
+          297.96344086021503
+        ],
+        [
+          127.60705289672543,
+          309.97204301075266
+        ],
+        [
+          48.79093198992443,
+          309.97204301075266
+        ]
+      ]
+    },
+    {
+      "title": "11.3.3.3 WAKE -> SLEEP state",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.0,
+          29.310546875
+        ],
+        [
+          232.59954833984375,
+          29.310546875
+        ],
+        [
+          232.59954833984375,
+          43.152503967285156
+        ],
+        [
+          51.0,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.63671875,
+          74.298828125
+        ],
+        [
+          117.68319702148438,
+          72.935546875
+        ],
+        [
+          117.68319702148438,
+          85.42679595947266
+        ],
+        [
+          49.47265625,
+          85.42679595947266
+        ]
+      ]
+    },
+    {
+      "title": "Triggering Events:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.763671875,
+          165.2978515625
+        ],
+        [
+          139.31643676757812,
+          163.9345703125
+        ],
+        [
+          139.31643676757812,
+          176.4467544555664
+        ],
+        [
+          49.763671875,
+          176.4467544555664
+        ]
+      ]
+    },
+    {
+      "title": "Exceptions:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.927734375,
+          224.259765625
+        ],
+        [
+          107.67252349853516,
+          222.896484375
+        ],
+        [
+          107.67252349853516,
+          235.42691802978516
+        ],
+        [
+          50.927734375,
+          235.42691802978516
+        ]
+      ]
+    },
+    {
+      "title": "Timing Diagram",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          50.29219143576826,
+          30.772043010752686
+        ],
+        [
+          127.60705289672543,
+          29.992187499999996
+        ],
+        [
+          127.60705289672543,
+          40.52903225806451
+        ],
+        [
+          49.763671875,
+          40.8984375
+        ]
+      ]
+    },
+    {
+      "title": "11.3.4 Movements between NORMAL and STANDBY state",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          51.0,
+          29.992187499999996
+        ],
+        [
+          398.2344055175781,
+          29.992187499999996
+        ],
+        [
+          398.2344055175781,
+          43.152503967285156
+        ],
+        [
+          51.0,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "11.3.4.1 NORMAL -> STANDBY-state",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.63671875,
+          76.0029296875
+        ],
+        [
+          267.99835205078125,
+          76.0029296875
+        ],
+        [
+          267.99835205078125,
+          89.17252349853516
+        ],
+        [
+          50.63671875,
+          89.17252349853516
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          51.0,
+          120.65039062499999
+        ],
+        [
+          117.68319702148438,
+          119.28710937499999
+        ],
+        [
+          117.68319702148438,
+          131.44681549072266
+        ],
+        [
+          50.0546875,
+          131.44681549072266
+        ]
+      ]
+    },
+    {
+      "title": "Triggering Events:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.763671875,
+          211.990234375
+        ],
+        [
+          139.31631469726562,
+          210.626953125
+        ],
+        [
+          139.31631469726562,
+          222.40653228759766
+        ],
+        [
+          49.763671875,
+          222.40653228759766
+        ]
+      ]
+    },
+    {
+      "title": "Exceptions:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          51.0,
+          270.611328125
+        ],
+        [
+          107.67240142822266,
+          269.248046875
+        ],
+        [
+          107.67240142822266,
+          281.4463882446289
+        ],
+        [
+          50.0546875,
+          281.4463882446289
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          45
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          53
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\11_State_Machine_part5"
+}

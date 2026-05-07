@@ -1,0 +1,743 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Safe State Control trigger event",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.29219143576826,
+          84.8642578125
+        ],
+        [
+          202.67002518891687,
+          84.8642578125
+        ],
+        [
+          202.67002518891687,
+          95.31827956989247
+        ],
+        [
+          50.29219143576826,
+          95.31827956989247
+        ]
+      ]
+    },
+    {
+      "title": "Reset output pin",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.541561712846345,
+          183.88172043010752
+        ],
+        [
+          131.360201511335,
+          183.361328125
+        ],
+        [
+          131.360201511335,
+          193.63870967741934
+        ],
+        [
+          49.541561712846345,
+          194.267578125
+        ]
+      ]
+    },
+    {
+      "title": "Detailed description of the reset function (Figure 19):",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.927734375,
+          29.6513671875
+        ],
+        [
+          302.5965881347656,
+          29.6513671875
+        ],
+        [
+          302.5965881347656,
+          41.446815490722656
+        ],
+        [
+          50.927734375,
+          41.446815490722656
+        ]
+      ]
+    },
+    {
+      "title": "Description:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.0,
+          351.7265625
+        ],
+        [
+          103.70832061767578,
+          350.36328125
+        ],
+        [
+          103.70832061767578,
+          363.0466995239258
+        ],
+        [
+          50.0546875,
+          363.0466995239258
+        ]
+      ]
+    },
+    {
+      "title": "8.4 Interrupt Function",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.0,
+          29.6513671875
+        ],
+        [
+          210.94915771484375,
+          29.6513671875
+        ],
+        [
+          210.94915771484375,
+          43.152503967285156
+        ],
+        [
+          51.0,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "Interrupt output pin",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.99895477294922,
+          206.537109375
+        ],
+        [
+          143.74249267578125,
+          205.173828125
+        ],
+        [
+          143.74249267578125,
+          217.42642974853516
+        ],
+        [
+          50.0546875,
+          217.42642974853516
+        ]
+      ]
+    },
+    {
+      "title": "Detailed description of the voltage monitoring via interrupt function (Figure 21):",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.345703125,
+          29.310546875
+        ],
+        [
+          429.248046875,
+          29.310546875
+        ],
+        [
+          429.1373596191406,
+          41.446815490722656
+        ],
+        [
+          49.181640625,
+          41.446815490722656
+        ]
+      ]
+    },
+    {
+      "title": "Description:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.345703125,
+          495.89355468749994
+        ],
+        [
+          103.70802307128906,
+          495.89355468749994
+        ],
+        [
+          103.70802307128906,
+          506.6865005493164
+        ],
+        [
+          50.345703125,
+          506.6865005493164
+        ]
+      ]
+    },
+    {
+      "title": "8.5 Electrical Characteristics Voltage Monitoring and Reset Function",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          51.0,
+          29.6513671875
+        ],
+        [
+          477.556640625,
+          29.6513671875
+        ],
+        [
+          477.556640625,
+          43.152503967285156
+        ],
+        [
+          51.0,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "9 Standby LDO and Internal Supplies",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.345703125,
+          28.2880859375
+        ],
+        [
+          341.774169921875,
+          28.2880859375
+        ],
+        [
+          341.774169921875,
+          44.846839904785156
+        ],
+        [
+          50.345703125,
+          44.846839904785156
+        ]
+      ]
+    },
+    {
+      "title": "9.1 Standby LDO:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.345703125,
+          80.0927734375
+        ],
+        [
+          187.6187744140625,
+          80.0927734375
+        ],
+        [
+          187.6187744140625,
+          93.13248443603516
+        ],
+        [
+          50.345703125,
+          93.13248443603516
+        ]
+      ]
+    },
+    {
+      "title": "9.1.1 Functional description",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.763671875,
+          126.10351562499999
+        ],
+        [
+          236.3856201171875,
+          126.10351562499999
+        ],
+        [
+          236.3856201171875,
+          139.15250396728516
+        ],
+        [
+          49.763671875,
+          139.15250396728516
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          22
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          247
+        ],
+        [
+          "TableCell",
+          172
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          301
+        ],
+        [
+          "TableCell",
+          220
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "TableCell",
+          212
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "TableCell",
+          68
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\11_State_Machine_part2"
+}

@@ -1,0 +1,360 @@
+{
+  "table_of_contents": [
+    {
+      "title": "6 Pre Regulators",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.29219143576826,
+          29.992187499999996
+        ],
+        [
+          208.67506297229218,
+          28.62890625
+        ],
+        [
+          208.67506297229218,
+          42.78064516129032
+        ],
+        [
+          50.29219143576826,
+          43.625
+        ]
+      ]
+    },
+    {
+      "title": "6.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.541561712846345,
+          78.80645161290322
+        ],
+        [
+          178.6498740554156,
+          78.80645161290322
+        ],
+        [
+          178.6498740554156,
+          90.06451612903226
+        ],
+        [
+          49.47265625,
+          90.06451612903226
+        ]
+      ]
+    },
+    {
+      "title": "6.2 Step Up Regulator",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.63671875,
+          29.6513671875
+        ],
+        [
+          212.3568115234375,
+          29.6513671875
+        ],
+        [
+          212.3568115234375,
+          43.152503967285156
+        ],
+        [
+          50.63671875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "6.2.1 Functional description",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.763671875,
+          76.34375
+        ],
+        [
+          236.3856201171875,
+          76.34375
+        ],
+        [
+          236.3856201171875,
+          89.17252349853516
+        ],
+        [
+          49.763671875,
+          89.17252349853516
+        ]
+      ]
+    },
+    {
+      "title": "6.2.2 Electrical characteristics",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.345703125,
+          29.310546875
+        ],
+        [
+          249.11639404296875,
+          29.310546875
+        ],
+        [
+          249.11639404296875,
+          43.152503967285156
+        ],
+        [
+          50.345703125,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "6.3 Step Down Regulator",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.0,
+          29.6513671875
+        ],
+        [
+          229.0379638671875,
+          29.6513671875
+        ],
+        [
+          229.0379638671875,
+          43.152503967285156
+        ],
+        [
+          51.0,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "6.3.1 Functional description",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.763671875,
+          76.34375
+        ],
+        [
+          236.3856201171875,
+          76.34375
+        ],
+        [
+          236.3856201171875,
+          89.17252349853516
+        ],
+        [
+          49.763671875,
+          89.17252349853516
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "TableCell",
+          124
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\06_Enable_Function"
+}

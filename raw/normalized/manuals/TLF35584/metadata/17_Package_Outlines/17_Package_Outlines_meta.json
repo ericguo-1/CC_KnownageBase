@@ -1,0 +1,145 @@
+{
+  "table_of_contents": [
+    {
+      "title": "17 Package Outlines",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.0,
+          29.992187499999996
+        ],
+        [
+          224.40512084960938,
+          28.62890625
+        ],
+        [
+          224.40512084960938,
+          44.846839904785156
+        ],
+        [
+          50.927734375,
+          44.846839904785156
+        ]
+      ]
+    },
+    {
+      "title": "Green Product (RoHS compliant)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.927734375,
+          562.4264602661133
+        ],
+        [
+          207.087158203125,
+          561.3310546875
+        ],
+        [
+          207.087158203125,
+          572.3864669799805
+        ],
+        [
+          50.927734375,
+          572.3864669799805
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\17_Package_Outlines"
+}

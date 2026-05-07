@@ -1,0 +1,389 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PreReg Dynamic Load Response (2mA to 500mA)\n(FRE-Pin: open ; VPreReg,nom = 5.8 V)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.63671875,
+          43.9658203125
+        ],
+        [
+          286.5320129394531,
+          42.6025390625
+        ],
+        [
+          286.5320129394531,
+          70.30558013916016
+        ],
+        [
+          49.47265625,
+          70.30558013916016
+        ]
+      ]
+    },
+    {
+      "title": "PreReg Dynamic Load Response (2mA to 500mA)\n(FRE-Pin: GND ; VPreReg,nom = 5.8 V)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          300.037109375,
+          43.2841796875
+        ],
+        [
+          538.087890625,
+          43.2841796875
+        ],
+        [
+          537.4677124023438,
+          70.30558013916016
+        ],
+        [
+          298.873046875,
+          70.30558013916016
+        ]
+      ]
+    },
+    {
+      "title": "6.4 Frequency setting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.927734375,
+          30.333007812499996
+        ],
+        [
+          211.0199737548828,
+          28.9697265625
+        ],
+        [
+          211.0199737548828,
+          43.152503967285156
+        ],
+        [
+          50.927734375,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "6.4.1 Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.345703125,
+          77.025390625
+        ],
+        [
+          177.68402099609375,
+          75.662109375
+        ],
+        [
+          177.68402099609375,
+          89.17252349853516
+        ],
+        [
+          49.181640625,
+          89.17252349853516
+        ]
+      ]
+    },
+    {
+      "title": "6.4.2 Electrical characteristics frequency setting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.345703125,
+          310.15250396728516
+        ],
+        [
+          352.419921875,
+          309.1240234375
+        ],
+        [
+          352.322509765625,
+          322.15250396728516
+        ],
+        [
+          49.181640625,
+          322.15250396728516
+        ]
+      ]
+    },
+    {
+      "title": "Table 9 Electrical Characteristics: Oscillator",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.0546875,
+          355.81640625
+        ],
+        [
+          279.3888244628906,
+          354.453125
+        ],
+        [
+          279.3888244628906,
+          366.46680450439453
+        ],
+        [
+          50.0546875,
+          366.46680450439453
+        ]
+      ]
+    },
+    {
+      "title": "6.4.3 Typical Performance Characteristics",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.0,
+          29.310546875
+        ],
+        [
+          315.65985107421875,
+          29.310546875
+        ],
+        [
+          315.65985107421875,
+          43.152503967285156
+        ],
+        [
+          50.345703125,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "Step-up Switching Frequency fOSC,step-upversus\nJunction Temperature Tj\n (FRE-Pin: open)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.0546875,
+          80.0927734375
+        ],
+        [
+          271.2038269042969,
+          80.0927734375
+        ],
+        [
+          271.2038269042969,
+          107.3255386352539
+        ],
+        [
+          50.0546875,
+          107.3255386352539
+        ]
+      ]
+    },
+    {
+      "title": "7 Post Regulators",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.0,
+          29.310546875
+        ],
+        [
+          214.99661254882812,
+          29.310546875
+        ],
+        [
+          214.99661254882812,
+          44.846839904785156
+        ],
+        [
+          51.0,
+          44.846839904785156
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Introduction",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.0546875,
+          80.7744140625
+        ],
+        [
+          177.67919921875,
+          79.4111328125
+        ],
+        [
+          177.67919921875,
+          93.13248443603516
+        ],
+        [
+          50.0546875,
+          93.13248443603516
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\08_Under_Voltage_Lock_Out"
+}

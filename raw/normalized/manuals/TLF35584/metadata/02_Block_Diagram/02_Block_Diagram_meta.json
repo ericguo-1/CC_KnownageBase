@@ -1,0 +1,72 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2 Block Diagram",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.0,
+          29.310546875
+        ],
+        [
+          205.68310546875,
+          27.947265625
+        ],
+        [
+          205.68310546875,
+          44.846839904785156
+        ],
+        [
+          51.0,
+          44.846839904785156
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\02_Block_Diagram"
+}

@@ -1,0 +1,816 @@
+{
+  "table_of_contents": [
+    {
+      "title": "7.5.3 Typical Performance Characteristics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.0,
+          29.992187499999996
+        ],
+        [
+          315.65985107421875,
+          28.62890625
+        ],
+        [
+          315.65985107421875,
+          43.152503967285156
+        ],
+        [
+          50.345703125,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "QTx Output Voltage VQTx versus\nJunction Temperature Tj",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.0546875,
+          80.7744140625
+        ],
+        [
+          203.0845947265625,
+          80.7744140625
+        ],
+        [
+          203.0845947265625,
+          107.3255386352539
+        ],
+        [
+          48.890625,
+          107.3255386352539
+        ]
+      ]
+    },
+    {
+      "title": "7.6 External Post Regulator for Core Supply (optional)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.0546875,
+          29.6513671875
+        ],
+        [
+          395.0279541015625,
+          29.6513671875
+        ],
+        [
+          395.0279541015625,
+          43.152503967285156
+        ],
+        [
+          50.0546875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "Table 14 Electrical characteristics: External post regulator",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.63671875,
+          321.58731842041016
+        ],
+        [
+          341.65234375,
+          320.37109375
+        ],
+        [
+          340.9785461425781,
+          331.5473098754883
+        ],
+        [
+          49.47265625,
+          332.640625
+        ]
+      ]
+    },
+    {
+      "title": "7.7 Power Sequencing",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.63671875,
+          29.6513671875
+        ],
+        [
+          215.02560424804688,
+          29.6513671875
+        ],
+        [
+          215.02560424804688,
+          43.152503967285156
+        ],
+        [
+          50.63671875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "7.7.1 Power sequencing from POR to INIT state",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.927734375,
+          202.7880859375
+        ],
+        [
+          345.0047912597656,
+          201.4248046875
+        ],
+        [
+          345.0047912597656,
+          215.1724624633789
+        ],
+        [
+          50.927734375,
+          215.1724624633789
+        ]
+      ]
+    },
+    {
+      "title": "7.7.2 Power sequencing STANDBY to INIT state",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          51.0,
+          29.6513671875
+        ],
+        [
+          346.9764099121094,
+          29.6513671875
+        ],
+        [
+          346.9764099121094,
+          43.152503967285156
+        ],
+        [
+          50.63671875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "7.7.3 Power sequencing SLEEP to WAKE state",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.0,
+          100.5419921875
+        ],
+        [
+          342.3467712402344,
+          100.5419921875
+        ],
+        [
+          342.3467712402344,
+          113.1724624633789
+        ],
+        [
+          50.345703125,
+          113.1724624633789
+        ]
+      ]
+    },
+    {
+      "title": "8 Monitoring Function",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          51.0,
+          28.9697265625
+        ],
+        [
+          243.0446319580078,
+          28.9697265625
+        ],
+        [
+          243.0446319580078,
+          44.846839904785156
+        ],
+        [
+          51.0,
+          44.846839904785156
+        ]
+      ]
+    },
+    {
+      "title": "8.1 Introduction",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          50.63671875,
+          80.43359375
+        ],
+        [
+          177.67919921875,
+          80.43359375
+        ],
+        [
+          177.67919921875,
+          93.13248443603516
+        ],
+        [
+          50.63671875,
+          93.13248443603516
+        ]
+      ]
+    },
+    {
+      "title": "Characteristics:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          51.0006103515625,
+          319.0078125
+        ],
+        [
+          126.57608795166016,
+          317.64453125
+        ],
+        [
+          126.57608795166016,
+          329.4461441040039
+        ],
+        [
+          50.0546875,
+          329.4461441040039
+        ]
+      ]
+    },
+    {
+      "title": "Indication of over and under voltage:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.927734375,
+          29.6513671875
+        ],
+        [
+          226.53204345703125,
+          29.6513671875
+        ],
+        [
+          226.53204345703125,
+          41.446815490722656
+        ],
+        [
+          50.927734375,
+          41.446815490722656
+        ]
+      ]
+    },
+    {
+      "title": "8.2 Shutdown Function",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.345703125,
+          312.873046875
+        ],
+        [
+          219.722412109375,
+          311.509765625
+        ],
+        [
+          219.722412109375,
+          326.17252349853516
+        ],
+        [
+          50.345703125,
+          326.17252349853516
+        ]
+      ]
+    },
+    {
+      "title": "8.3 Reset Function",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.0546875,
+          567.192512512207
+        ],
+        [
+          194.36160278320312,
+          566.443359375
+        ],
+        [
+          194.36160278320312,
+          579.192512512207
+        ],
+        [
+          50.0546875,
+          579.192512512207
+        ]
+      ]
+    },
+    {
+      "title": "Distinguish between \"Soft Reset\" and \"Hard Reset\"",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.63671875,
+          642.4462890625
+        ],
+        [
+          296.4751281738281,
+          641.0830078125
+        ],
+        [
+          296.4751281738281,
+          653.447135925293
+        ],
+        [
+          50.63671875,
+          654.0341796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          172
+        ],
+        [
+          "TableCell",
+          100
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "TableCell",
+          93
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\11_State_Machine_part1"
+}

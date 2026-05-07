@@ -1,0 +1,95 @@
+{
+  "table_of_contents": [
+    {
+      "title": "18 Revision History",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.0,
+          29.992187499999996
+        ],
+        [
+          218.1490478515625,
+          28.62890625
+        ],
+        [
+          218.1490478515625,
+          44.846839904785156
+        ],
+        [
+          51.0,
+          44.846839904785156
+        ]
+      ]
+    },
+    {
+      "title": "Trademarks of Infineon Technologies AG",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.345703125,
+          398.98682403564453
+        ],
+        [
+          246.5366668701172,
+          397.7373046875
+        ],
+        [
+          246.5366668701172,
+          408.94681549072266
+        ],
+        [
+          50.345703125,
+          408.94681549072266
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "TableCell",
+          47
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\18_Revision_History"
+}

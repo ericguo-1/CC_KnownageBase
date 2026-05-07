@@ -1,0 +1,425 @@
+{
+  "table_of_contents": [
+    {
+      "title": "5 Wake Function",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.0,
+          29.992187499999996
+        ],
+        [
+          207.19989013671875,
+          28.62890625
+        ],
+        [
+          207.19989013671875,
+          44.846839904785156
+        ],
+        [
+          50.927734375,
+          44.846839904785156
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.63671875,
+          80.7744140625
+        ],
+        [
+          177.67919921875,
+          79.4111328125
+        ],
+        [
+          177.67919921875,
+          93.13248443603516
+        ],
+        [
+          49.47265625,
+          93.13248443603516
+        ]
+      ]
+    },
+    {
+      "title": "Wake (pin WAK - level triggered) / Enable (pin ENA - edge triggered)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.0546875,
+          192.5634765625
+        ],
+        [
+          373.1014404296875,
+          191.2001953125
+        ],
+        [
+          373.1014404296875,
+          203.44620513916016
+        ],
+        [
+          48.890625,
+          203.44620513916016
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Electrical Characteristics Enable Signal",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.0,
+          29.310546875
+        ],
+        [
+          333.01068115234375,
+          29.310546875
+        ],
+        [
+          333.01068115234375,
+          43.152503967285156
+        ],
+        [
+          51.0,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "Table 5 Electrical Characteristics: Enable signal",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.927734375,
+          325.82421875
+        ],
+        [
+          298.291015625,
+          324.4609375
+        ],
+        [
+          297.6863098144531,
+          335.9872817993164
+        ],
+        [
+          49.763671875,
+          336.73046875
+        ]
+      ]
+    },
+    {
+      "title": "5.3 Electrical Characteristics Wake Signal",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.0,
+          29.6513671875
+        ],
+        [
+          324.9635925292969,
+          29.6513671875
+        ],
+        [
+          324.9635925292969,
+          43.152503967285156
+        ],
+        [
+          50.63671875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "Table 6 Electrical Characteristics: Wake signal",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.763671875,
+          298.8994140625
+        ],
+        [
+          291.0350646972656,
+          297.5361328125
+        ],
+        [
+          291.0350646972656,
+          309.34729766845703
+        ],
+        [
+          48.599609375,
+          309.34729766845703
+        ]
+      ]
+    },
+    {
+      "title": "5.4 Typical Performance Characteristics",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.0,
+          29.310546875
+        ],
+        [
+          315.649169921875,
+          29.310546875
+        ],
+        [
+          315.649169921875,
+          43.152503967285156
+        ],
+        [
+          51.0,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "Enable Input Threshold Voltage VENA,th versus\nJunction Temperature Tj",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265625,
+          80.43359375
+        ],
+        [
+          268.6045837402344,
+          80.43359375
+        ],
+        [
+          268.6045837402344,
+          107.3255386352539
+        ],
+        [
+          49.47265625,
+          107.3255386352539
+        ]
+      ]
+    },
+    {
+      "title": "Wake Input Threshold Voltage VWAK,th versus\nJunction Temperature Tj",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          298.58203125,
+          81.115234375
+        ],
+        [
+          514.925537109375,
+          79.751953125
+        ],
+        [
+          514.925537109375,
+          107.3255386352539
+        ],
+        [
+          297.41796875,
+          107.3255386352539
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "TableCell",
+          76
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "TableCell",
+          68
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\05_Wake_Function"
+}

@@ -1,0 +1,325 @@
+{
+  "table_of_contents": [
+    {
+      "title": "6.3.2 Electrical characteristics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.63671875,
+          29.6513671875
+        ],
+        [
+          249.11639404296875,
+          29.6513671875
+        ],
+        [
+          249.11639404296875,
+          43.152503967285156
+        ],
+        [
+          50.63671875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "6.3.3 Typical Performance Characteristics",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.63671875,
+          28.62890625
+        ],
+        [
+          315.65985107421875,
+          28.62890625
+        ],
+        [
+          315.65985107421875,
+          43.152503967285156
+        ],
+        [
+          50.63671875,
+          43.152503967285156
+        ]
+      ]
+    },
+    {
+      "title": "Pre Regulator Output Voltage VPreReg versus\nJunction Temperature Tj\n (FRE-Pin: open)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.763671875,
+          80.7744140625
+        ],
+        [
+          259.8055114746094,
+          80.7744140625
+        ],
+        [
+          259.8055114746094,
+          107.3255386352539
+        ],
+        [
+          49.763671875,
+          107.3255386352539
+        ]
+      ]
+    },
+    {
+      "title": "Pre Regulator Output Voltage VPreReg versus\nJunction Temperature Tj\n (FRE-Pin: GND)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          300.328125,
+          81.115234375
+        ],
+        [
+          511.0234375,
+          79.751953125
+        ],
+        [
+          510.8454895019531,
+          107.3255386352539
+        ],
+        [
+          299.1640625,
+          107.3255386352539
+        ]
+      ]
+    },
+    {
+      "title": "Pre Regulator Output Voltage V_{\\rm PreReg} versus Supply Voltage V_{\\rm VS} (FRE-Pin: open)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.541561712846345,
+          42.03010752688172
+        ],
+        [
+          261.2191435768262,
+          42.26171875
+        ],
+        [
+          261.2191435768262,
+          68.2989247311828
+        ],
+        [
+          49.181640625,
+          68.2989247311828
+        ]
+      ]
+    },
+    {
+      "title": "Pre Regulator Output Voltage V_{\\rm PreReg} versus Supply Voltage V_{\\rm VS} (FRE-Pin: GND)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          300.25188916876573,
+          42.03010752688172
+        ],
+        [
+          512.6801007556675,
+          42.26171875
+        ],
+        [
+          512.6801007556675,
+          68.2989247311828
+        ],
+        [
+          299.455078125,
+          68.2989247311828
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          280
+        ],
+        [
+          "TableCell",
+          132
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          263
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          88
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\07_Reset_Function"
+}
